@@ -128,3 +128,4 @@ Enquanto imagens: `[texto alt](url/da/imagem)`
 -  [MDX](https://github.com/mdx-js/mdx)
 -  [Welcome UI - Usando docz e mdx](http://welcome-ui.com/components/dropdown-menu)
 -  [Editor de markdown online](http://stackedit.io/)
+-  [Notion: Bloco de notas online com suporte à markdown](https://www.notion.so/?r=e72a51358ca4421997f9acb6797e584c)
