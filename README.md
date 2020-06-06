@@ -120,6 +120,46 @@ Links utilizam a seguinte sintaxe: `[Texto do link](url "Titulo")`
 
 Enquanto imagens: `[texto alt](url/da/imagem)`
 
+### Alinhamento de itens ao centro (texto/imagem/link/etc)
+
+- Texto
+```markdown
+<div align="center">
+  <p>Parágrado de teste.</p>
+</div>
+```
+
+Fica assim:
+<div align="center">
+  <p>Parágrado de teste.</p>
+</div>
+
+- Imagem
+
+```markdown
+<div align="center">
+  <img src="https://codar.me/logo.png" height="150">
+</div>
+```
+
+Se reflete em:
+<div align="center">
+  <img src="https://codar.me/logo.png" height="150">
+</div>
+
+- Link
+
+```markdown
+<div align="center">
+  <a href="google.com">Google</a>
+</div>
+```
+
+Fica:
+<div align="center">
+  <a href="google.com">Google</a>
+</div>
+
 ## Links úteis
 
 - [Wikipedia Markdown](https://pt.wikipedia.org/wiki/Markdown)
