@@ -6,11 +6,11 @@ Tudo que você precisa saber sobre essa linguagem de marcação!
 
 ### Comentários
 
-Memso usado no HTML: `<!-- Comments -->`
+Mesmo usado no HTML: `<!-- Comments -->`
 
 ### Headings
 
-Cabeçalhos que serão convetidos para tags `h1 - h6`
+Cabeçalhos que serão convertidos para tags `h1 - h6`
 
 - `#` h1
 - `##` h2
